@@ -150,19 +150,6 @@ Worked on multiple AI, Data Science and Machine Learning projects involving mode
 - Cloud Deployment
 - System Design
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sainarayana1&show_icons=true&theme=github_dark" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainarayana1&layout=compact&theme=github_dark" height="170"/>
-
-</p>
-
----
 
 # 🤝 Let's Connect
 
