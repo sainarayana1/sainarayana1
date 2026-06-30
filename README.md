@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lakshmi Sai Narayana 👋
+# Hi, I'm Mamidipaka Lakshmi Sai Narayana 👋
 
 ### 🎓 B.Tech in Electronics & Communication Engineering (VLSI)
 
